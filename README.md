@@ -1,0 +1,1 @@
+# nanopc-rk3399-android10-for-exthmui
